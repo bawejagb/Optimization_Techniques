@@ -15,3 +15,4 @@ This is the repo of Optimization Techniques Algorithm implemented in **MATLAB**.
 * **Basic Feasible Solution**
 * **Simplex Method**
 * **2 Phase Method**
+* **Dual-Simplex Method**
