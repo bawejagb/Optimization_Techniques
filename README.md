@@ -16,3 +16,4 @@ This is the repo of Optimization Techniques Algorithm implemented in **MATLAB**.
 * **Simplex Method**
 * **2 Phase Method**
 * **Dual-Simplex Method**
+* **Big-M Method**
